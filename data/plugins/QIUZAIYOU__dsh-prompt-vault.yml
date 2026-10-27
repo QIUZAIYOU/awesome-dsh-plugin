@@ -3,5 +3,5 @@ name: QIUZAIYOU/dsh-prompt-vault
 category: ui
 description:
   en: "Composer history that restores a prompt together with its image and file attachments, @ references, slash command, and the model, thinking effort, permission and agent preset used."
-  zh: "记录并恢复输入框历史：提示词、图片/文件附件、@ 引用、/ 指令，以及当时的模型、思考程度、权限与使用模式。"
+  zh: "输入框上方的提示词历史：还原提示词时一并还原图片/文件附件、@ 引用、/ 指令，以及当时使用的模型、思考程度、权限与使用模式。"
 icon: https://raw.githubusercontent.com/QIUZAIYOU/dsh-prompt-vault/main/assets/icon-180.png
